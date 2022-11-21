@@ -1,0 +1,56 @@
+#cardbg{
+    border: 4px double rgba(16, 0, 64,.7);
+}
+#cardMain{
+    margin-top: 3rem;
+   
+}
+#bgZone{
+    background-color: rgba(16, 0, 64,.7);
+    width: 94%;
+    height: 200px;
+    margin: 3%;
+    border: 4px double rgba(255, 255, 255, 0.7);
+    
+    
+}
+#cardText{
+    color: #fff;
+    font-size: 300%;
+    text-align: center;
+    margin-top: 2rem;
+    font-weight: bold;
+}
+#singleCard{
+    width: auto;
+    margin-top: -2rem;
+    box-shadow: 5px 10px rgb(16, 0, 64);
+    
+}
+#day{
+    color: rgb(16, 0, 64);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 1rem;
+    
+}
+#Temp{
+    color: rgb(16, 0, 64);
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: -2rem;
+    
+}
+#cardCont{
+    text-align: center;
+    margin-top: -2rem;
+
+}
+#place{
+    text-align: center;
+    
+    font-size: 20px;
+    margin: -1rem;
+}
